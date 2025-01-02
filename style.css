@@ -34,10 +34,4 @@ a:hover, a:active {
             justify-content: flex-end;
 
         }
-.item {
-            width: 100px;
-            height: 100px;
-            color: navajowhite;
-            display: inline-block;
-            margin: 2px;
-        }
+
