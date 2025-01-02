@@ -26,12 +26,8 @@ a:hover, a:active {
   color: navajowhite;
 }
 
-div {
-  float: right;
-}
-
 .container {
-            width: 300px;
+            width: 500px;
             height: 30px;
             background-color: firebrick;
             align: right;
