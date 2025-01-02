@@ -25,3 +25,19 @@ a:link, a:visited {
 a:hover, a:active {
   color: navajowhite;
 }
+
+.container {
+            width: 500px;
+            height: 300px;
+            background-color: firebrick;
+            display: flex;
+            justify-content: flex-end;
+
+        }
+.item {
+            width: 100px;
+            height: 100px;
+            color: navajowhite;
+            display: inline-block;
+            margin: 2px;
+        }
