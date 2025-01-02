@@ -28,7 +28,7 @@ a:hover, a:active {
 
 div {
   width:300px;
-  margin: right;
+  float: right;
 }
 
 .container {
