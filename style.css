@@ -11,3 +11,15 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+a:link, a:visited {
+  color: navajowhite;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  color: navajowhite;
+}
