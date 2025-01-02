@@ -1,0 +1,13 @@
+body {
+  background-color: FireBrick;
+}
+
+h1 {
+  color: NavajoWhite;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
