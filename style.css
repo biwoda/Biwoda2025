@@ -6,15 +6,17 @@ h1 {
   color: navajowhite;
   text-align: center;
 }
+
 h3 {
   color: navajowhite;
   text-align: left;
 }
+
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 15px;
+  color: navajowhite;
 }
-
 
 a:link, a:visited {
   font-size: 25px;
