@@ -145,6 +145,11 @@ a:hover, a:active {
   animation-duration: 1.5s;
 }
 
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
