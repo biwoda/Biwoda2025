@@ -8,6 +8,7 @@
   <div>   
       <a href="location.html" >Location</a>
       <a href="story.html" >Our Story</a>
+      
         <div class="dropdown">
         <button class="dropbtn" onclick="myFunction()">Programs
           <i class="fa fa-caret-down"></i>
@@ -70,6 +71,22 @@ in a cycle of poverty for generations. </p>
       self-reliant lives and communities.</p>
 <hr>
 <p>&copy; 2025 BIWODA and SUNY Buffalo</p>     
-    
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
 </body>
 </html>
