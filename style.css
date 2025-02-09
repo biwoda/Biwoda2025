@@ -62,8 +62,8 @@ a:hover, a:active {
   width: 25%;
 }
 
-.button1 {
-  background-color: #b22222;
+.button {
+  background-color: firebrick;
   border: none;
   color: navajowhite;
 }
