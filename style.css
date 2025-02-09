@@ -148,8 +148,8 @@ a:hover, a:active {
 }
 
 .dropdown {
-  position: relative;
-  display: inline-block;
+  float: left;
+  overflow: hidden;
 }
 
 .dropdown-content {
