@@ -69,6 +69,7 @@ a:hover, a:active {
   text-decoration: none;
   display: inline-block;
   font-size: 25px;
+  margin: 4px 2px;
   cursor: pointer;
 }
 
