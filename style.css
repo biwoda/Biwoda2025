@@ -68,6 +68,7 @@ a:hover, a:active {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: verdana;
   font-size: 20px;
   margin: 4px 2px;
   cursor: pointer;
