@@ -62,7 +62,11 @@ a:hover, a:active {
   width: 25%;
 }
 
-.button1 {background-color: firebrick;}
+.button1 {
+  background-color: firebrick;
+  border: none;
+  color: navajowhite;
+}
 
 * {box-sizing:border-box}
 
