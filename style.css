@@ -169,10 +169,10 @@ a:hover, a:active {
 
 .dropdown .dropbtn {
   cursor: pointer;
-  font-size: 16px;  
+  font-size: 25px;  
   border: none;
   outline: none;
-  color: white;
+  color: navajowhite;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
