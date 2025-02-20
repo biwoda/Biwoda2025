@@ -179,7 +179,7 @@ a:hover, a:active {
   padding: 15px 32px;
   background-color: firebrick;
   font-family: verdana;
-  margin: 2px 2px;
+  margin: none;
   text-color: navajowhite;
   text-align: center;
   text-decoration: none;
