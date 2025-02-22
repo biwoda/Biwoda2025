@@ -19,9 +19,9 @@
        </div>
       </div>  
        <div class="dropdown">
-        <button class="dropbtn" onclick="myFunction()">Projects
+        <button class="dropbtn" onclick="myFunction1()">Projects
         </button>
-        <div class="dropdown-content" id="myDropdown">
+        <div class="dropdown-content" id="myDropdown1">
           <a href="cookingstove.html">Energy Saving Cooking Stoves</a>
           <a href="consagri.html">Conservation Agriculture</a>
           <a href="agrofor.html">Agro Forestry</a>
@@ -93,6 +93,22 @@ window.onclick = function(e) {
     }
   }
 }
+
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction1() {
+  document.getElementById("myDropdown1").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown1 = document.getElementById("myDropdown1");
+    if (myDropdown1.classList.contains('show')) {
+      myDropdown1.classList.remove('show');
+    }
+  }
+}  
 </script>
 </body>
 </html>
