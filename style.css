@@ -234,3 +234,6 @@ a:hover, a:active {
   padding: 14px 16px;
   text-decoration: none;
 }
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: firebrick;
+}
