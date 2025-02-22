@@ -222,13 +222,13 @@ a:hover, a:active {
 }
 .navbar {
   overflow: hidden;
-  background-color: #333;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #b22222;
+  font-family: verdana;
 }
 
 .navbar a {
   float: left;
-  font-size: 16px;
+  font-size: 25px;
   color: white;
   text-align: center;
   padding: 14px 16px;
