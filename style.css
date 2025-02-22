@@ -235,5 +235,5 @@ a:hover, a:active {
   text-decoration: none;
 }
 .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
-  background-color: #ff9933;
+  background-color: #da3e3e;
 }
