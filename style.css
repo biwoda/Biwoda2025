@@ -229,11 +229,11 @@ a:hover, a:active {
 .navbar a {
   float: left;
   font-size: 25px;
-  color: white;
+  color: navajowhite;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
-  background-color: firebrick;
+  background-color: #ff9933;
 }
